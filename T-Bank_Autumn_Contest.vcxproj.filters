@@ -37,7 +37,4 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\task7_t_bank_contest_autumn\program.cs" />
-  </ItemGroup>
 </Project>

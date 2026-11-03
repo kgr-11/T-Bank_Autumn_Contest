@@ -135,9 +135,6 @@
     <ClCompile Include="Task5.cpp" />
     <ClCompile Include="Task6.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\task7_t_bank_contest_autumn\program.cs" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
